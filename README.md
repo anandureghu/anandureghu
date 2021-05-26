@@ -56,7 +56,7 @@
 
 ---
 
-<img align="left" alt="Anandu Reghu GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anandu-reghu&show_icons=true&hide_border=true" />
+<img align="left" alt="Anandu Reghu GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anandureghu&show_icons=true&hide_border=true" />
 
 
 <!-- --- -->
