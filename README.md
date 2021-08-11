@@ -3,18 +3,15 @@
 
 ## I'm a self taught programmer from Kerala.
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning OpenCV and Django 📷
+- 🌱 I’m currently learning Modern JavaScript
 - 👯 I’m looking to collaborate with other open-source projects
-- 🥅 2021 Goals: Contribute more to Open Source projects and start ML
+- 🥅 2021 Goals: Contribute more to Open Source projects and Complete ReactJs
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="anandureghu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="anandureghu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<!-- [<img align="left" alt="anandureghu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="anandureghu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="anandureghu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
