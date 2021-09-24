@@ -3,9 +3,9 @@
 
 ## I'm a self taught programmer from Kerala.
 
-- 🌱 I’m currently learning Modern JavaScript
-- 👯 I’m looking to collaborate with other open-source projects
-- 🥅 2021 Goals: Contribute more to Open Source projects and Complete ReactJs
+- 🌱 I’m currently learning React Js
+- 👯 I’m looking to make some big projects
+- 🥅 2021 Goals: Complete ReactJs and Node Js
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 
