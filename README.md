@@ -1,11 +1,11 @@
 ### Hi there, I'm Anandu Reghu👋
 
 
-## I'm a self taught programmer from Kerala.
+## Currently working as Java Backend Developer
 
-- 🌱 I’m currently learning React Js
-- 👯 I’m looking to make some big projects
-- 🥅 2021 Goals: Complete ReactJs and Node Js
+- 🌱 Focusing on Golang
+- 👯 Goal is to master Glonag in 2022
+- 🥅 Connect with me on twitter for more info
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 
@@ -15,7 +15,10 @@
 
 
 [<img align="left" alt="anandureghu | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]
-[<img align="left" alt="anandureghu | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter"/>][twitter]
+[<img align="left" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn"/>][linkedin]
+
+
 
 
 <br />
@@ -97,8 +100,8 @@
 
 <!-- [website]: https://anandureghu.com
 [course]: http://anandureghu.com
-[twitter]: https://twitter.com/anandureghu
 [youtube]: https://youtube.com/anandureghu -->
-[instagram]: https://instagram.com/k_r_1_4
+[instagram]: https://instagram.com/anandu__reghu
+[twitter]: https://twitter.com/anandu__reghu
 [linkedin]: https://www.linkedin.com/in/anandureghu
 
