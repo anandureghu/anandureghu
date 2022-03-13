@@ -16,7 +16,8 @@
 
 [<img align="left" alt="anandureghu | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter"/>][twitter]
-[<img align="left" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn"/>][linkedin]
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>][linkedin]
+
 
 
 
