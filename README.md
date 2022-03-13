@@ -5,7 +5,6 @@
 
 - 🌱 Focusing on Golang
 - 👯 Goal is to master Glonag in 2022
-- 🥅 Connect with me on twitter for more info
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 
