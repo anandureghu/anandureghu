@@ -12,14 +12,8 @@
 
 <!-- [<img align="left" alt="anandureghu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
-
-[<img align="left" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" alt="Instagram"/>][instagram]
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter"/>][twitter]
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>][linkedin]
-
-
-
-
 
 <br />
 
@@ -101,7 +95,7 @@
 <!-- [website]: https://anandureghu.com
 [course]: http://anandureghu.com
 [youtube]: https://youtube.com/anandureghu -->
-[instagram]: https://instagram.com/anandu__reghu
+<!-- [instagram]: https://instagram.com/anandu__reghu -->
 [twitter]: https://twitter.com/anandu__reghu
 [linkedin]: https://www.linkedin.com/in/anandureghu
 
