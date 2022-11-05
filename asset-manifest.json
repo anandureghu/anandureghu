@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anandureghu/static/css/main.3127ee37.css",
+    "main.js": "/anandureghu/static/js/main.685c7b83.js",
+    "index.html": "/anandureghu/index.html",
+    "main.3127ee37.css.map": "/anandureghu/static/css/main.3127ee37.css.map",
+    "main.685c7b83.js.map": "/anandureghu/static/js/main.685c7b83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3127ee37.css",
+    "static/js/main.685c7b83.js"
+  ]
+}
