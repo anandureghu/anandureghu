@@ -4,7 +4,7 @@
 ## Currently working as Java Backend Developer
 
 - 🌱 Focusing on Golang
-- 👯 Goal is to master Glonag in 2022
+- 👯 Goal is to master Glonag in 2023
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 
