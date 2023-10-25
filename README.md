@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm a passionate developer who loves working with Go (Golang), React.js, Next.js, Node.js, and JavaScript.<br>🔭 I’m currently working Building a robust, high-performance application using Go for the backend, and React.js/Next.js for the frontend and learning about software engineering.<br>👯 I’m looking to collaborate Exciting open-source projects or web applications that involve the technologies I'm passionate about. If you have an interesting project, feel free to reach out!<br>🤝 I’m looking for help with Improving my skills in Go and Next.js. If you're experienced in these languages and want to mentor or provide guidance, I'd greatly appreciate your help.<br>🌱 I’m currently learning advanced Go techniques, exploring the latest features of React.js, and keeping up with the fast-paced world of web development.<br>💬 Ask me about anything related to Go, React.js, Next.js, Node.js, or JavaScript. I love discussing best practices, architectural patterns, and problem-solving in these technologies.<br>⚡ Fun fact When I'm not coding, you can find me cycling, playing badminton, Gym, reading, or watching anime. I believe in a balanced life, just like writing clean and maintainable code!
+**I'm a passionate developer who loves working with Go (Golang), React.js, Next.js, Node.js, and JavaScript.  
+🔭 I’m currently working Building a robust, high-performance application using Go for the backend, and React.js/Next.js for the frontend and learning about software engineering.  
+👯 I’m looking to collaborate on open-source projects or applications that involve the technologies I'm passionate about. If you have an interesting project, feel free to reach out!  
+🤝 I’m looking for help with Improving my skills in DSA.  
+🌱 I’m currently learning advanced Go techniques, exploring the latest features of React.js, and keeping up with the fast-paced world of web development.  
+⚡ Fun fact When I'm not coding, you can find me cycling, playing badminton, Gym, reading, or watching anime. I believe in a balanced life, just like writing clean and maintainable code!**  
 
 
 ## 🌐 Socials:
